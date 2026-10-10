@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 260" role="img" aria-label="Canna lily botanical illustration">
+<defs><linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8BAF68"/><stop offset="1" stop-color="#24563A"/></linearGradient></defs>
+<g stroke="#2B6242" stroke-width="2" stroke-linejoin="round">
+ <path d="M118 238 C91 185 53 149 28 143 C28 185 56 226 118 238Z" fill="url(#leaf)"/>
+ <path d="M122 238 C153 177 189 150 217 151 C207 194 174 228 122 238Z" fill="url(#leaf)"/>
+ <path d="M120 240 C98 165 102 105 122 69 C145 118 144 178 120 240Z" fill="#5F8D50"/>
+ <path d="M120 239 C120 181 119 122 122 69" fill="none" stroke="#D5E1B7" stroke-width="2"/>
+ <path d="M121 98 C88 94 76 68 91 44 C115 53 125 73 121 98Z" fill="#D9573B" stroke="#B94431"/>
+ <path d="M122 91 C113 54 132 27 153 23 C165 49 150 77 122 91Z" fill="#E96A45" stroke="#B94431"/>
+ <path d="M119 86 C99 59 105 35 121 29 C139 51 133 73 119 86Z" fill="#F17A4E" stroke="#B94431"/>
+ <path d="M122 96 C140 69 164 68 177 83 C160 103 139 106 122 96Z" fill="#D9573B" stroke="#B94431"/>
+ <path d="M121 102 C93 101 82 83 86 66 C110 67 123 82 121 102Z" fill="#B94431" stroke="#B94431"/>
+</g>
+<path d="M119 239 C88 220 65 201 50 174 M121 239 C160 211 185 186 200 166" stroke="#C5D8A6" stroke-width="1.5" fill="none"/>
+</svg>
